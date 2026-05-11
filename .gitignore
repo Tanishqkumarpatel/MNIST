@@ -1,0 +1,7 @@
+.venv/
+.ipynb_checkpoints/
+archive.zip
+MNIST.zip
+mnist.npz
+__pycache__/
+*.pyc
