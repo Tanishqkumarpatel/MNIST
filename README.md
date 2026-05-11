@@ -22,3 +22,5 @@ A fully connected Neural Network implementation using **only Python and NumPy**.
 - **Vectorized Backpropagation:** Implemented manual calculus for gradients.
 - **Stable Softmax:** Handled numerical overflow for stability.
 - **Deep Architecture:** Successfully trained a 4-layer network without vanishing gradients.
+
+![alt text](image.png)
