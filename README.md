@@ -1,13 +1,3 @@
----
-title: MNIST Digit Classifier
-emoji: ✏️
-colorFrom: blue
-colorTo: green
-sdk: docker
-app_port: 7860
-pinned: false
----
-
 # MNIST (Pure NumPy Implementation)
 
 A fully connected Neural Network implementation using **only Python and NumPy**. No PyTorch, no TensorFlow.
